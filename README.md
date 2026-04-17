@@ -1,4 +1,4 @@
-<p align="center"><img src=".png" height="250" alt="MarlinFirmware's logo" /></p>
+<p align="center"><img src="main.png" height="250" alt="LeafOS's logo" /></p>
 
 <p align="center">
     <a href="/LICENSE"><img alt="GPL-V3.0 License" src="https://img.shields.io/github/license/marlinfirmware/marlin.svg"></a>
